@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pineapple, Lime, and Ginger Soup</title>
+        <meta charset = "utf-8">
+    </head>
+    <body>
+        <h1>Roomali Roti</h1>
+        <img src ="../images/pineapplestuff.jpg" alt = "image of pineapplestuff">
+        <p>This is a hot soup from India made with pineapple and lime juice, enhanced with the flavors of ginger, green chile peppers, and cumin seeds. It smells and tastes so good that you could just keep drinking. Good with rice. Tip: Roll limes against a hard surface with the palm of your hand to make them soft. This helps get the juice out.</p>
+        <p><h2>We'll guide you through how to make the dish in an easy and intuitive manner!</h2></p>
+        <h3>Ingredients: </h3>
+        <p>
+            <ul>
+                <li>1 tablespoon minced fresh ginger root</li>
+                <li> 1 teaspoon ground cumin</li>
+                <li>1 minced hot green chile peppers</li>
+                <li>2 cups water</li>
+                <li>1 cup crushed pineapple</li>
+                <li>1 tomato, diced (Optional)</li>
+                <li>1 ½ teaspoons salt</li>
+                <li>1 tablespoon fresh cilantro leaves</li>
+                <li>2 limes, juiced</li>
+                <li>1 tablespoon vegetable oil</li>
+                <li>1 ½ teaspoons cumin seeds</li> 
+            </ul>
+        </p>
+        <h2>And now for the Ingredients</h2>
+        <p>
+            <ol>
+            <li>Use a blender to grind the ginger, 1 teaspoon cumin, and green chile peppers.</li>
+            <li>In a medium saucepan, add 1 cup water, pineapple, tomato, and salt. Place over a low heat. When the pineapple and water have come to boil, add the ground mixture. Raise and lower the heat to bring to a boil several times. Add the remaining water, and bring to a boil again. Add cilantro, and remove from heat. Mix in lime juice.</li>
+            <li>In a small pan, heat oil over medium heat, and add the remaining cumin seeds. Fry till golden, and add to the soup as a garnish.</li>
+        </ol>
+        </p>
+    </body>
+</html>
