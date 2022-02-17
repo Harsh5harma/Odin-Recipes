@@ -1,0 +1,79 @@
+.head
+{
+    margin-left: 550px;
+    padding: 10px;
+    color:rgba(255, 255, 255, 0.712);
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(images/bg.gif);
+    padding-bottom: 200px;
+}
+
+.desc
+{
+    text-align: center;
+    padding: 8px;
+}
+.images
+{
+    margin-top:20px;
+    display: inline-block;
+    margin-left: 52px;
+}
+.rotimg,.chaimg,.pinimg
+{
+    border: 2px solid rgba(255, 255, 255, 0.384);
+}
+.rotimg
+{
+    display: inline-block;
+  
+}
+.chaimg
+{
+    display: inline-block;
+    margin-left: 98px;
+}
+.pinimg
+{
+    display: inline-block;
+    margin-left: 150px;
+}
+.pineapple {
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 180px;
+    font-size: larger;
+    text-align: center;;
+    font-weight: bold;
+    color:rgba(255, 255, 255, 0.712);
+}
+.roti
+{
+    text-decoration: none;
+    display:inline-block;
+    margin-left:150px;
+    font-size: larger;
+    text-align: center;;
+    font-weight: bold;
+    color:rgba(255, 255, 255, 0.712);
+ 
+}
+.chai
+{
+    display:inline-block;
+    margin-left:200px;
+    font-size: larger;
+    text-align: center;;
+    font-weight: bold;
+    color:rgba(255, 255, 255, 0.712);
+  
+}
+.thanks
+{
+    margin-top: 200px;
+    font-size: medium;
+    text-align: center;
+    color: aliceblue;
+}
