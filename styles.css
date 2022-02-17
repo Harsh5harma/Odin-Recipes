@@ -16,32 +16,37 @@ a
 }
 .desc
 {
+    font-size: large;
+    margin-right: 110px;
     text-align: center;
     padding: 8px;
+    color:rgba(255, 255, 255, 0.712);
 }
 .images
 {
-    margin-top:20px;
+    margin-top:10px;
     display: inline-block;
     margin-left: 52px;
 }
-.rotimg,.chaimg,.pinimg
-{
-    border: 2px solid rgba(255, 255, 255, 0.384);
+.i{
+    border-radius: 5%;
 }
 .rotimg
 {
     display: inline-block;
+    border-radius: 3% ;
 }
 .chaimg
 {
     display: inline-block;
     margin-left: 98px;
+    border-radius: 3% ;
 }
 .pinimg
 {
     display: inline-block;
     margin-left: 150px;
+    border-radius: 3% ;
 }
 .pineapple {
     text-decoration: none;

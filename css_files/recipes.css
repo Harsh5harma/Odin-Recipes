@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(../images/bg.gif);
+    padding-bottom: 200px;
+    color:rgba(255, 255, 255, 0.712);
+}
+h1
+{
+    color:rgba(255, 255, 255, 0.712);
+    text-align: center;
+}
+img
+{
+    border-radius: 5%;
+    width: 400px;
+    height :300px;
+    margin-left: 490px;
+    border:3px solid rgba(49, 4, 4, 0.445);
+}
