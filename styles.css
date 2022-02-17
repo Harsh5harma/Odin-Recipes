@@ -9,7 +9,11 @@ body{
     background-image: url(images/bg.gif);
     padding-bottom: 200px;
 }
-
+a
+{
+ color:rgba(255, 255, 255, 0.712);
+ text-decoration: none;
+}
 .desc
 {
     text-align: center;
@@ -21,11 +25,6 @@ body{
     display: inline-block;
     margin-left: 52px;
 }
-a
-{
- color:rgba(255, 255, 255, 0.712);
- text-decoration: none;
-}
 .rotimg,.chaimg,.pinimg
 {
     border: 2px solid rgba(255, 255, 255, 0.384);
@@ -33,7 +32,6 @@ a
 .rotimg
 {
     display: inline-block;
-  
 }
 .chaimg
 {
@@ -51,8 +49,7 @@ a
     margin-left: 180px;
     font-size: larger;
     text-align: center;;
-    font-weight: bold;
-   
+    font-weight: bold;  
 }
 .roti
 {
@@ -62,8 +59,6 @@ a
     font-size: larger;
     text-align: center;;
     font-weight: bold;
-   
- 
 }
 .chai
 {
@@ -72,8 +67,6 @@ a
     font-size: larger;
     text-align: center;;
     font-weight: bold;
-  
-  
 }
 .thanks
 {
